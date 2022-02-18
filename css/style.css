@@ -1,0 +1,31 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    background-color: hsl(0, 0%, 100%);
+    width: 320px;
+    height: 497px;
+    border-radius: 5%;
+}
+
+.qr-container {
+    text-align: center;
+    padding: 10px;
+}
+
+img {
+    width: 18em;
+    height: 18em;
+    border-radius: 5%;
+}
+
+.text {
+    text-align: center;
+}

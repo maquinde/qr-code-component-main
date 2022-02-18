@@ -9,3 +9,14 @@ body {
     background-color: var(--light-gray);
     font-family: 'Outfit', sans-serif;
 }
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card {
+    text-align: center;
+}

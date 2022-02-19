@@ -35,8 +35,8 @@ body {
 }
 
 .text-container {
-    position: relative;
-    left: 19px;
+    text-align: center;
+    margin: 0 15px;
     width: 288px;
     height: 129px;
 }
